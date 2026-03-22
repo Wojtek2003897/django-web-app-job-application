@@ -24,7 +24,7 @@ A simple web application built with Django that allows users to submit a job app
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * Python
 * Django
